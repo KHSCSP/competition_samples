@@ -1,3 +1,5 @@
+# https://codingquest.io/problem/23
+
 # a helper function
 def show_field():
     print()
